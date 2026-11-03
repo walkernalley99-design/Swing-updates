@@ -1,6 +1,6 @@
 {
   "version": "2026.11.03.5",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing.zip",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.5.zip",
   "sha256": "13bed6a167646f23db5a8267ab5a60b8f8d80cd377fb98986ca833cd397804dd",
   "notes": "Paper trading keeps retrying when free prices are slow, and says clearly what's wrong."
 }
