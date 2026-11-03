@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.03.6",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.6.zip",
-  "sha256": "44cd12c6fd32d40d483eafe48c85da8d6881c6ba0477a2990bb24e0c9f57c2c0",
-  "notes": "Fixes buttons doing nothing on some Windows PCs, and every error now shows a clear message."
+  "version": "2026.11.03.7",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.7.zip",
+  "sha256": "9876e3f9bfb012a234eb4b270cdd2ae33bc25ac0246550274b559bde9d38473f",
+  "notes": "Paper trading start now says what it's doing (getting free prices) instead of 'Connecting to Topstep'."
 }
