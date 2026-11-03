@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.03.3",
+  "version": "2026.11.03.4",
   "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing.zip",
-  "sha256": "556f3828213c949f23a9f7b23a15e5abd8348c3b0e6768ce5b138b8bcb89378f",
-  "notes": "First version with automatic updates."
+  "sha256": "54f21c3be3802522f6810622481f6b69959af4ad0f8ecd6623c9f573d613c725",
+  "notes": "Checks that automatic updates work. No other changes."
 }
