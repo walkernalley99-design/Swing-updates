@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.04.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.04.1.zip",
-  "sha256": "7ab9b75b05a995422632d3653af1cf64d5f05413d89abfdd3d5921d8c58068e8",
-  "notes": "Retired the Asia, London and Europe models after live losses. Swing trades New York setups only until an overnight model proves itself."
+  "version": "2026.11.04.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.04.2.zip",
+  "sha256": "9e263bb34b93c3e13d41f060f33d5d5677c577c64eda10317f1e38c68dd2990a",
+  "notes": "New overnight model: gold trend in Asia hours, plus two Europe-morning candidates. New overnight setups trade on paper first and only use real money after 15 profitable paper trades."
 }
