@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.03.9",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.9.zip",
-  "sha256": "c257748146f3dee49ac09cde9325a1af2514b15f3be6cb3b502cea51250b1ae9",
-  "notes": "Two new overnight setups (Frankfurt-open breakout, European-open drift). They only trade if they pass the backtest."
+  "version": "2026.11.03.10",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.10.zip",
+  "sha256": "44276f8f7aab0586180d7095dc31a4971fad1c3190f5ca49b767390d5cae5b05",
+  "notes": "Times now show in your own time zone everywhere (Activity, pauses, news, briefs). Chart labels no longer overlap, cleaner tables on phones, and small text fixes."
 }
