@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.03.7",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.7.zip",
-  "sha256": "9876e3f9bfb012a234eb4b270cdd2ae33bc25ac0246550274b559bde9d38473f",
-  "notes": "Paper trading start now says what it's doing (getting free prices) instead of 'Connecting to Topstep'."
+  "version": "2026.11.03.8",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.8.zip",
+  "sha256": "d69804f7c6717650095001fae67abb10f4c11824567be487ffb0342fa97c0cad",
+  "notes": "New computers can sign in with an existing Swing account instead of making a new one."
 }
