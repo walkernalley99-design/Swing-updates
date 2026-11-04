@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.03.10",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.03.10.zip",
-  "sha256": "44276f8f7aab0586180d7095dc31a4971fad1c3190f5ca49b767390d5cae5b05",
-  "notes": "Times now show in your own time zone everywhere (Activity, pauses, news, briefs). Chart labels no longer overlap, cleaner tables on phones, and small text fixes."
+  "version": "2026.11.04.1",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.04.1.zip",
+  "sha256": "7ab9b75b05a995422632d3653af1cf64d5f05413d89abfdd3d5921d8c58068e8",
+  "notes": "Retired the Asia, London and Europe models after live losses. Swing trades New York setups only until an overnight model proves itself."
 }
