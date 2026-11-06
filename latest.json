@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.05.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.05.1.zip",
-  "sha256": "7131b3c4bf20cdf50478083cfa153224892b7001922d649bf342fd1e2ab27358",
-  "notes": "Backtest now needs at least 15 unseen trades before a setup can trade. Every backtest's picks are saved with how they actually traded, with a button to switch back (Edge tab, Past picks)."
+  "version": "2026.11.05.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.05.2.zip",
+  "sha256": "a266a821ae2c8a6a1bd8e65afa52f54926596f8207243e49f5eb9c9382987927",
+  "notes": "Swing sits out US holidays, early-close days and election days. Edge tab now compares each setup's live results with what the backtest promised."
 }
