@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.05.4",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.05.4.zip",
-  "sha256": "ffd752618e3e2185b016885561ddebf18ecd49e87d2d00ff6fed5707850ec8b1",
-  "notes": "Back to Monday's (Nov 2) backtest rules and models: the original Asia breakout returns, the 4 original markets, and this week's extra checks and markets are gone. Holiday sit-out, picks history and other app fixes stay."
+  "version": "2026.11.11.1",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.11.1.zip",
+  "sha256": "4bc4d72f6af2349cfcaadc77a5784fd6177366bdefb14495328ba5780d1fc790",
+  "notes": "Activity now shows how every trade closed. Clearer week-over-week change, calendar and news fixes, and other screen clean-ups."
 }
