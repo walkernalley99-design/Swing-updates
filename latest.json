@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.12.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.12.1.zip",
-  "sha256": "598fa81d07cf0e6949ae1a01f762f09c5b7856c403b74b747fae284a10f644a3",
-  "notes": "The support file now includes your trade fills and price history, so a full review can be done from one download."
+  "version": "2026.11.12.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.12.2.zip",
+  "sha256": "c28d26987d4c00e8effca177994cfcba6df16442d1d6ac9b57e3ebaa3266314f",
+  "notes": "Swing now tells you when an account is close to its max loss limit: why the trade size shrank, and why it isn't trading. Paper accounts point you to the reset button."
 }
