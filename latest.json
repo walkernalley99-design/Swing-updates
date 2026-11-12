@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.11.2",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.11.2.zip",
-  "sha256": "dcee69f865d7af4ca48db6e439ca1aa47366c6d9a4cedf810576a6f17b0b8b03",
-  "notes": "Home's Today now follows the trading day (it rolls over at 5 PM Central), so it matches the account line. Activity shows tonight's closed trades right away. No more false 'sudden spike' pause at the evening reopen."
+  "version": "2026.11.12.1",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.12.1.zip",
+  "sha256": "598fa81d07cf0e6949ae1a01f762f09c5b7856c403b74b747fae284a10f644a3",
+  "notes": "The support file now includes your trade fills and price history, so a full review can be done from one download."
 }
