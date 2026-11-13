@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.13.2",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.13.2.zip",
-  "sha256": "11ef97cc3d2575be9e74348120d438ff99b098d303fb863fba427a1c5f130db6",
-  "notes": "Research price download now retries with other ranges, reports what it got, and runs when you download the support file."
+  "version": "2026.11.13.3",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.13.3.zip",
+  "sha256": "fcbe96b117f96c15a7f1b75d090c0a04a41b1f405a255e8d504aa74e558ea4ad",
+  "notes": "New researched setup: Overnight drift (1 S&P micro, 6 PM to 9 AM ET). It becomes the active pick; the weekly backtest is turned off so it isn't replaced. Earlier picks stay in Past picks."
 }
