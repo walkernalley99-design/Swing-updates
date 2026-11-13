@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.13.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.13.1.zip",
-  "sha256": "2a2b88f177f3fb4bf812278cb482e4b5e5cbabef45285db2f58101aa2517515e",
-  "notes": "Swing now saves 2 years of hourly and 10 years of daily prices for research (not used for trading). They're included in the support file."
+  "version": "2026.11.13.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.13.2.zip",
+  "sha256": "11ef97cc3d2575be9e74348120d438ff99b098d303fb863fba427a1c5f130db6",
+  "notes": "Research price download now retries with other ranges, reports what it got, and runs when you download the support file."
 }
