@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.16.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.1.zip",
-  "sha256": "d87c4a6d6c42b0f2df0314181602ad1bd76abb48792bc2ecfa0967685d0b2666",
-  "notes": "Adds New York trading back alongside the overnight drift: Nasdaq pullback, Gold VWAP, Oil trend and Oil VWAP, 9:45 AM to 3:30 PM ET."
+  "version": "2026.11.16.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.2.zip",
+  "sha256": "e93aee0e25c759e28a0083e2229a551d160dba390625f1bd999f0d4deeed1ca8",
+  "notes": "Backtest now tests all 10 markets and every model. New: overnight drift after a down day (judged on 2+ years of prices), and day setups only pass when most of their settings made money. Weekly re-run is back on."
 }
