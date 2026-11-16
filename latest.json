@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.16.2",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.2.zip",
-  "sha256": "e93aee0e25c759e28a0083e2229a551d160dba390625f1bd999f0d4deeed1ca8",
-  "notes": "Backtest now tests all 10 markets and every model. New: overnight drift after a down day (judged on 2+ years of prices), and day setups only pass when most of their settings made money. Weekly re-run is back on."
+  "version": "2026.11.16.3",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.3.zip",
+  "sha256": "23c8af784bef173ba154ea8389d4ac15206b74d91bfeb4f2b3232bb99783c5fc",
+  "notes": "Swing now saves 1-minute prices (about 30 days, growing) for Nasdaq, S&P, Gold and Oil, to build and test a 1-minute sweep-and-inversion model. Included in the support file."
 }
