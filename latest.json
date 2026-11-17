@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.16.5",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.5.zip",
-  "sha256": "d48cbbbd56c53d7780a66161e5e6328ff31c410f6a650b0e9672f49ce4421f62",
-  "notes": "The sweep and inversion model now also trades the London open (3 to 5 AM New York time)."
+  "version": "2026.11.16.6",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.6.zip",
+  "sha256": "19327a98bae61beea19cbdb367d3174645f5dc6210e5b6a202d75c86842c0832",
+  "notes": "The sweep model now takes partials: half off when the trade is up by what it risked, stop moved to the entry price, the rest runs to the target."
 }
