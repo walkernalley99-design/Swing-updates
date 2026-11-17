@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.16.6",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.16.6.zip",
-  "sha256": "19327a98bae61beea19cbdb367d3174645f5dc6210e5b6a202d75c86842c0832",
-  "notes": "The sweep model now takes partials: half off when the trade is up by what it risked, stop moved to the entry price, the rest runs to the target."
+  "version": "2026.11.17.1",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.17.1.zip",
+  "sha256": "c5b06009275fd6315912b3d7ccee4cf13211c0bfce4e9fd1f67a9253eb555562",
+  "notes": "Stricter sweep rules from studying pro London and New York trades: only sweeps of the Asia range, London range and yesterday's high/low; SMT confirmation between Nasdaq and S&P; wider minimum stop; one trade per market per session; London 2-5 AM and New York 9:30-11 AM ET (evening dropped)."
 }
