@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.17.1",
-  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.17.1.zip",
-  "sha256": "c5b06009275fd6315912b3d7ccee4cf13211c0bfce4e9fd1f67a9253eb555562",
-  "notes": "Stricter sweep rules from studying pro London and New York trades: only sweeps of the Asia range, London range and yesterday's high/low; SMT confirmation between Nasdaq and S&P; wider minimum stop; one trade per market per session; London 2-5 AM and New York 9:30-11 AM ET (evening dropped)."
+  "version": "2026.11.17.2",
+  "zip": "https://raw.githubusercontent.com/walkernalley99-design/swing-updates/main/Swing-2026.11.17.2.zip",
+  "sha256": "f16b3afd34977e6fb5ecc46747a2b22a3ee1672350bf81ebd6ee25e519aaa26e",
+  "notes": "Sweep model adds the silver bullet framework: last hourly candle high/low and equal highs/lows as levels, an optional OTE pullback entry, and the 2-3 PM ET afternoon window. The backtest switches off any session that doesn't make money."
 }
